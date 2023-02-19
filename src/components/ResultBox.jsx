@@ -36,7 +36,7 @@ export default function ResultBox({ message, loading }) {
             <p className='mt-2'>{message}</p>
           </>
 
-        : <p className='opacity-50 text-center'>Your text will apear here</p> }
+        : <p className='opacity-50 text-center'>Your text will appear here</p> }
     </div>
   )
 }
