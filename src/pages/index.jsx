@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>AI Writer</title>
+        <title>Wrdy.io</title>
         <meta lang='en'/>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="An ai-provided tool that generates messages, emails, and essays for you" />
